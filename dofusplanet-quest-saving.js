@@ -6,6 +6,7 @@
 // @author       blackstar0169
 // @match        https://dofusplanet.com/quetes/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=dofusplanet.com
+// @license GNU GPLv3
 // @grant  GM.setValue
 // @grant  GM.getValue
 // ==/UserScript==
