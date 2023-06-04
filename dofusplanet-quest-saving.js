@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DofusPlanet Quest Progress Saving
 // @namespace    https://github.com/blackstar0169/dofusplanet-quest-saving
-// @version      1.0
+// @version      1.1
 // @description  Save progress for DofusPlanet without account.
 // @author       blackstar0169
 // @match        https://dofusplanet.com/quetes/*
